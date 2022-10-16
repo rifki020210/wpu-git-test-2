@@ -8,5 +8,8 @@
 </head>
 <body>
     <h1>Hello Wolrd</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse soluta blanditiis aliquam exercitationem expedita odio doloremque ipsa cumque consectetur dolorum autem qui, deserunt explicabo dolor tempora? Perspiciatis eius consequuntur in.</p>
+    <ul><li>satu</li>
+    <li>Dua</li></ul>
 </body>
 </html>
